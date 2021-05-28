@@ -5,3 +5,9 @@ const name = {
 }
 
 console.info(`${firstName} ${middleName} ${lastName}`)
+
+function cetakNama(firstName, middleName, lastName) {
+	console.info(`${firstName} ${middleName} ${lastName}`)
+}
+
+cetakNama('harun','al','rasyid')
